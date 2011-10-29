@@ -1,0 +1,9 @@
+Date: 18 February 2011
+Summary: If you're running an existing site on Nesta, you should upgrade to the gem. It's simpler, faster and more easily extended. It's also easy to do. This post contains all the commands you need...
+
+# USB over RJ45
+
+I came across this little dinky at
+[DealExtreme](http://www.dealextreme.com/details.dx/sku.23553). Costs only a
+couple of bucks, and it lets you turn a normal network cable into a long
+USB-cable. Anyone who ever shoots tethered should have one of these.
