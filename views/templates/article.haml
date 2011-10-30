@@ -1,7 +1,10 @@
 .container
-	%section
-		.row
-			.span12
-				~ render_article(@page)
-			.span4
-				= haml(:sidebar, layout: false)
+  %section
+    .row
+      .span12
+        ~ render_article(@page)
+      .span4
+        = haml(:sidebar, layout: false)
+    .row
+      .span12
+        = haml :comments, :layout => false
