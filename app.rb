@@ -55,12 +55,12 @@ module Nesta
       end
     end
 
-    def date_with_autodetect
-      return date_without_autodetect if date_without_autodetect
+    def date_with_autodetect(format = nil)
+      return date_without_autodetect(format) if date_without_autodetect(format)
       return DateTime.new($1.to_i, $2.to_i, $3.to_i) if path =~ /(\d\d\d\d)-(\d\d)-(\d\d)/
-      date_without_autodetect
+      date_without_autodetect(format)
     rescue
-      date_without_autodetect
+      date_without_autodetect(format)
     end
     alias_method :date_without_autodetect, :date
     alias_method :date, :date_with_autodetect
