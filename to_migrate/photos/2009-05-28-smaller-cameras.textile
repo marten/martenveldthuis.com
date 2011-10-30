@@ -1,0 +1,8 @@
+---
+layout: photo
+title: Smaller Cameras
+photos: 
+- 2009-05-28-smaller-cameras
+---
+
+I've never quite understood these... are they much better than a flat pocket camera?

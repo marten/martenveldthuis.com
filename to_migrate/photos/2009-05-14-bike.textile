@@ -1,0 +1,7 @@
+---
+layout: photo
+title: Bike on a pipe
+photos: 
+- 2009-05-14-bike
+---
+

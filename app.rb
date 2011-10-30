@@ -14,6 +14,15 @@ module Nesta
       def articles
         Nesta::Page.find_articles
       end
+
+      def render_article(article)
+        case article.metadata('type')
+        when 'link'
+          haml(:"types/link", locals: {article: article}, layout: false)
+        else
+          haml(:"types/post", locals: {article: article}, layout: false)
+        end
+      end
     end
 
     # Add new routes here.

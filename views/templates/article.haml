@@ -1,0 +1,7 @@
+.container
+	%section
+		.row
+			.span12
+				~ render_article(@page)
+			.span4
+				= haml(:sidebar, layout: false)

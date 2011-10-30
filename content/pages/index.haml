@@ -1,2 +1,2 @@
-- articles.each do |article|
-  = haml(article.template.to_sym, :layout => false, :locals => {:article => article})
+- latest_articles.each do |article|
+  ~ render_article(article)

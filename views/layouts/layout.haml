@@ -20,7 +20,7 @@
     = haml :analytics, :layout => false
 
   %body
-    #container
-      = haml :header, :layout => false
-      = yield
-      = haml :footer, :layout => false
+    = haml :topbar, :layout => false
+    = haml :header, :layout => false
+    = yield
+    = haml :footer, :layout => false

@@ -1,5 +1,6 @@
-Template: link
-Date: 18 February 2011
+Date: 8 July 2009
+Template: article
+Type: link
 
 # USB over RJ45
 
