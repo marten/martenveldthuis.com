@@ -1,4 +1,7 @@
-.post
-  %h1
-    %a{href: url_for(article)}= article.heading
-  ~ article.body
+.article.post.row
+  .span4
+    .date #{format_date article.date}
+  .span8
+    %h1
+      %a{href: url_for(article)}= article.heading
+    ~ article.body

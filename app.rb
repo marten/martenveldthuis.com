@@ -19,13 +19,17 @@ module Nesta
         case article.metadata('type')
         when 'link'
           haml(:"types/link", locals: {article: article}, layout: false)
+        when 'quote'
+          haml(:"types/quote", locals: {article: article}, layout: false)
         else
           haml(:"types/post", locals: {article: article}, layout: false)
         end
       end
     end
 
-    # Add new routes here.
+    not_found do
+      haml(:not_found, :layout => :"layouts/layout")
+    end
   end
 
   class FileModel
@@ -40,5 +44,15 @@ module Nesta
     end
     alias_method :layout_without_subdir, :layout
     alias_method :layout, :layout_with_subdir
+  end
+
+  class Page < FileModel
+    def template
+      if path =~ /blog/
+        "templates/article".to_sym
+      else
+        super
+      end
+    end
   end
 end
