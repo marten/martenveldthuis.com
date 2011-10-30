@@ -1,0 +1,14 @@
+Date: 22 September 2010 14:28
+
+# Information Architects - Writer for iPad
+
+Information Architects – Writer for iPad. Seems really nice, going by the
+blogpost. But they make the same mistake most other Dropbox-enabled writing
+apps make. They claim their own directory in the root folder of my Dropbox
+account. That's pretty-much a no-go for me, it clutters up my Dropbox, and
+makes it hard to keep all files for a project together. And it turns Dropbox
+into a syncing service where each app just has its own data silo, where there
+is no interaction between apps, because they can't (not by limitation of
+Dropbox, but by their own silly thinking) reach eachothers files. Then we're
+basically back to square one: select all, copy, switch app, paste in new
+document, edit there. Lather, rinse, repeat.
