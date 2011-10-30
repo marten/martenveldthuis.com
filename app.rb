@@ -54,5 +54,15 @@ module Nesta
         super
       end
     end
+
+    def date_with_autodetect
+      return date_without_autodetect if date_without_autodetect
+      return DateTime.new($1.to_i, $2.to_i, $3.to_i) if path =~ /(\d\d\d\d)-(\d\d)-(\d\d)/
+      date_without_autodetect
+    rescue
+      date_without_autodetect
+    end
+    alias_method :date_without_autodetect, :date
+    alias_method :date, :date_with_autodetect
   end
 end
