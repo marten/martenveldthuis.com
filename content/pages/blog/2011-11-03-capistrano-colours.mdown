@@ -1,0 +1,6 @@
+Type: link
+
+[capistrano-colors](https://github.com/stjernstrom/capistrano_colors):
+
+This little gem helps make the output of Capistrano a whole lot more readable.
+Highly recommended.
