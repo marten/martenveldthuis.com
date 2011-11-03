@@ -4,4 +4,7 @@
       %a{href: url_for(article)}= format_date article.date
 
   .span8
+    - if article.heading and article.metadata("url")
+      %h1
+        %a{href: article.metadata("url")}= article.heading
     ~ article.body
