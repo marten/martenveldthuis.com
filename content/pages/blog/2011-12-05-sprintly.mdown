@@ -1,0 +1,6 @@
+Type: link
+Url: http://sprint.ly/
+
+# Sprintly
+
+Very pretty scrum tool. I especially like the preformatted form for new stories which forces you to write it in a certain format, I wish Pivotal was a little more opinionated in that area.
