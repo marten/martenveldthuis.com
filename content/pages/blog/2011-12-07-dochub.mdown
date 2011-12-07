@@ -1,0 +1,7 @@
+Type: link
+Url: http://dochub.io/
+
+# DocHub
+
+Much better place to lookup stuff than w3schools. I find this a little easier
+to browse than the Mozilla dev center.

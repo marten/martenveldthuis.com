@@ -1,0 +1,28 @@
+#!/usr/bin/env ruby
+
+@title = ARGV.shift
+@url = ARGV.shift
+@date = Time.now.strftime("%Y-%m-%d")
+
+def dasherize(string)
+  string.downcase.gsub(/[\.\:]/, "").split(" ").join("-")
+end
+
+@filename = File.expand_path(File.join(File.basename(__FILE__), 
+                                       "..", "content", "pages", "blog", 
+                                       "#{@date}-#{dasherize @title}.mdown"))
+
+if File.exist?(@filename)
+  puts "Error, file exists: #{@filename}"
+  exit 1
+else
+  File.open(@filename, "w") do |file|
+    file.puts "Type: link"
+    file.puts "Url: #{@url}"
+    file.puts ""
+    file.puts "# #{@title}"
+    file.puts ""
+  end
+
+  exec "#{ENV["EDITOR"] || "vim"} #{@filename}"
+end
