@@ -6,5 +6,5 @@
   .span8
     - if article.heading and article.metadata("url")
       %h1
-        %a{href: article.metadata("url")}= article.heading
+        %a{href: article.metadata("url")} &rarr; #{article.heading}
     ~ article.body
