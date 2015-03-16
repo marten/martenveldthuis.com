@@ -1,0 +1,11 @@
+# My thoughts on this Apple Developer security thing
+
+So Apple's developer sites have gone offline for a couple days now, apparently due to security issues. One security researcher called Ibrahim Balic came forward with with a story of how he found a bunch of vulnerabilities and notified Apple about his findings. Basically, he claims to be completely white hat.
+
+On the other hand, developers have been getting password reset emails, and Apple apparently decided this issue was critical enough to throw the entire site offline for multiple days.
+
+To me, that doesn't really seem like appropriate action. They could have also replied to him and thanked him but asked him to stop his actions while they worked on a fix. Then they could have simply set up some checks to make sure the vulnerabilities wouldn't be exploited until a fix was ready.
+
+My guess? They looked at their log files, and found that the holes Ibrahim notified them about were being actively exploited by someone other than Ibrahim, and therefore that had little choice other than to shut the whole thing down.
+
+This would make sense in that Ibrahim can actually be the white hat researcher he claims to be, while being consistent with the immediate shut down (and the reports of password reset emails developers seem to be getting -- though that can also simply be a side-effect of all the attention this issue is getting, people searching for other exploitable holes).

@@ -1,0 +1,7 @@
+# Open Source Report no. 2
+
+And immediately I forgot to write this up for a few times… So here’s what I’ve been up to the past weeks:
+
+hubot-scripts. I added a Prowl/NotifyMyAndroid notification script to our work Hubot, that will push every mention of your name to your iOS or Android device.
+rails: I fix a small bug where parts of ActiveSupport were not able to be loaded in isolation.
+simplestats is a small Sinatra app to collect web statistics from your visitors and save them in MongoDB. I wrote this out of frustration with Google Analytics, which is probably very powerful, but all we really wanted to know were some browser usage stats, specifically the width of the viewports of our users. While you could push this to GA with a script someone posted somewhere, I simply couldn’t figure out how to get the results back out…
