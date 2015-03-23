@@ -1,8 +1,0 @@
----
-layout: photo
-title: Red and Green
-photos: 
-- 2009-05-17-red-and-green
----
-
-Who's afraid of a little red, white and green?

@@ -1,0 +1,8 @@
+---
+title: Fullscreen flash on Chrome 20
+layout: post
+---
+
+This fixed it for me. Obviously, it's my own fault for using the dev-channel.
+
+Source: http://productforums.google.com/forum/#!topic/chrome/Mi-YgjNGaaQ

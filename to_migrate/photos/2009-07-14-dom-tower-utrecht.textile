@@ -1,7 +1,0 @@
----
-layout: photo
-title: The Dom Tower of Utrecht
-photos: 
-- 2009-07-14-dom-tower-utrecht
----
-

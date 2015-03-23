@@ -1,0 +1,24 @@
+---
+title: Open Source Report no. 1
+layout: post
+---
+
+Inspired by Mike Gunderloy's attempt at doing something for the open source
+world every day, I figured I should be able to at least do something every
+week.
+
+So here's what I've been up to the past week:
+
+  * [watchmen](http://github.com/roqua/watchmen) is a new extension for
+  	Python's Fabric library that is aimed at monitoring a set of servers.
+    At the office, we're growing pretty tired of Nagios, so I did a little test
+    to see how hard it would be to build something better. The actual checks
+    would be pretty doable with this library, though we'd still need to build
+    a webbased dashboard and notifications via e-mail/irc/campfire/sms.
+  * [soundcheck](http://github.com/marten/soundcheck) is my unified interface
+    to running tests. I recently came across the need to run a Minitest suite,
+    so I've added something to support that. Not quite happy with how it works
+    yet, I'll probably improve it next week.
+  * *[bootstrap](http://twitter.github.com/bootstrap/)* I fixed some JS with
+    regard to the buttons, when they are `<input type="submit">`s, instead
+    of divs with class button.

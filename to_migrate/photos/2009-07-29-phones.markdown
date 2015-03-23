@@ -1,6 +1,0 @@
----
-layout: photo
-title: Phones
-photos: 
-- 2009-07-29-phones
----

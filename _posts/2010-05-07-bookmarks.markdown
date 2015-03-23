@@ -1,0 +1,6 @@
+---
+layout: post
+---
+
+* [latex-lab](http://code.google.com/p/latex-lab/) - Webbased editor for LaTeX documents, based on Google Documents.
+* [Rubular](http://www.rubular.com/) - A Ruby regular expression editor and tester

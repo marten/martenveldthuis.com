@@ -1,7 +1,0 @@
----
-layout: photo
-title: Hoornsemeer
-photos: 
-- 2009-04-24-hoornsemeer
----
-

@@ -1,0 +1,10 @@
+---
+title: fakefs
+layout: post
+---
+
+[fakefs](http://highgroove.com/articles/2011/12/06/fake-it.html)
+
+File system faker to make testing stuff that depends on the FS easier.
+
+Personally, I tend to dependency-inject some IO class when I need to test file stuff.

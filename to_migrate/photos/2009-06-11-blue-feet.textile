@@ -1,8 +1,0 @@
----
-layout: photo
-title: Shooting on the stairs
-photos: 
-- 2009-06-11-blue-feet
----
-
-This one is from the RUG gala earlier this month.

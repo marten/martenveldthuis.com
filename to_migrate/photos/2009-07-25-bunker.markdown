@@ -1,8 +1,0 @@
----
-layout: photo
-title: Bunker
-photos: 
-- 2009-07-25-bunker
----
-
-Second world-war bunker from the inside.

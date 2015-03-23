@@ -1,0 +1,11 @@
+---
+title: Call Me Fishmeal.: Adobe & Microsoft, Sitting in a Tree. W-T-F-I-N-G?
+layout: post
+---
+
+> [...] the conventional wisdom that Macs are more attractive to “creative
+> professionals,” as they call them, which I think is an awesome term
+> considering that it leaves Windows with “dull professionals” and “creative
+> slackers,” [...]
+
+-- [Wil Shipley](http://blog.wilshipley.com/2010/10/adobe-microsoft-sitting-in-tree-w-t-f-i.html)

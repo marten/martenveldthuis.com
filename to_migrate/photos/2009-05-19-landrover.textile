@@ -1,8 +1,0 @@
----
-layout: photo
-title: Land Rover
-photos: 
-- 2009-05-19-landrover
----
-
-Dabbling a bit in HDR, with thanks to DJN of Chromasia's wonderful tutorials.

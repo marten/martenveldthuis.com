@@ -1,9 +1,0 @@
----
-layout: photo
-title: Playground First
-photos: 
-- 2009-05-11-playground
----
-
-Went out for a hike today, had been inside all day. Apparently, they've upgraded the playground by the lake near my home. This looks really space-age stuff, especially with the white sand underneath.
-

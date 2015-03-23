@@ -1,0 +1,10 @@
+---
+layout: post
+---
+
+Spent some time today migrating this site to WordPress.
+
+* [Postalicious Plugin](http://neop.gbtopia.com/?p=108) - I'm using this to pull in posts from my Pinboard account. For Pinboard, set type to Yahoo Pipes and put in any public rss.
+* [Linked List URL Plugin](http://shawnblanc.net/2009/08/wp-linked-list-plugin/) - I might use this one day. Right now I'm using the Postalicious plugin to pull in my Pinboard RSS feed and publish stuff as a daily post.
+* [Quick Page/Post Redirect Plugin](http://www.fischercreativemedia.com/wordpress-plugins/quick-pagepost-redirect-plugin/) - I'm using this to put the ZenFolio link in my top navigation bar.
+* [LR2/Blog](http://www.photographers-toolbox.com/products/lr2blog.php) - Send images to your blog from Adobe Lightoom - This might be useful now that I'm switching to Wordpress.

@@ -1,8 +1,2 @@
-source 'http://rubygems.org'
-
-gem 'thin'
-gem 'nesta', '0.9.11'
-
-
-
-# gem (RUBY_VERSION =~ /^1.9/) ? 'ruby-debug19': 'ruby-debug'
+source 'https://rubygems.org'
+gem 'github-pages'

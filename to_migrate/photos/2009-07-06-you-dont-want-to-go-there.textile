@@ -1,7 +1,0 @@
----
-layout: photo
-title: You don't want to go there
-photos: 
-- 2009-07-06-you-dont-want-to-go-there
----
-Very rainy and occasional lightning. Not a good time to go out. Had my tripod in the window sill for this (holding the legs tightly... I'm up on the third floor here). Taken at 11mm f/8, exposed for overall scene and enhanced contrast in the sky in Photoshop.

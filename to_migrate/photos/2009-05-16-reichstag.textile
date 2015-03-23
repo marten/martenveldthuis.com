@@ -1,8 +1,0 @@
----
-layout: photo
-title: Reichstag
-photos: 
-- 2009-05-16-reichstag
----
-
-An old one from the archives of 2006, the Reichstag building in Berlin, Germany.

@@ -1,0 +1,9 @@
+---
+title: USB over RJ45
+layout: post
+---
+
+I came across this little dinky at
+[DealExtreme](http://www.dealextreme.com/details.dx/sku.23553). Costs only a
+couple of bucks, and it lets you turn a normal network cable into a long
+USB-cable. Anyone who ever shoots tethered should have one of these.

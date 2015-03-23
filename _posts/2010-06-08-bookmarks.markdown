@@ -1,0 +1,8 @@
+---
+layout: post
+---
+
+* [Air Video Features](http://www.inmethod.com/air-video/features.html) - Watch video on iPhone/iPad streamed from Mac, transcoded on the fly.
+* [http-console](http://github.com/cloudhead/http-console) - Command line HTTP console. Seems to me like every web developer wants this.
+* [Compojure Template for use on the Google App Engine](http://github.com/baz/blank-compojure-gae) - For when I deem Compojure ready enough to start playing with it.
+* [Oh My ZSH](http://github.com/robbyrussell/oh-my-zsh) - Nice starter kit of zsh settings.

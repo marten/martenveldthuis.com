@@ -1,8 +1,0 @@
----
-layout: photo
-title: Rugby
-photos: 
-- 2009-05-10-rugby-1
-- 2009-05-10-rugby-2
----
-
