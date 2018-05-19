@@ -69,12 +69,11 @@ h2 {
   -moz-osx-font-smoothing: grayscale;
 }
 .wordart.tilt {
-    display: inline-block;
-    transform: scaleY(2) perspective(1em) rotateX(15deg) translate3d(-19%, -14%, -0.4em);
-    -webkit-transform: scaleY(2) perspective(1em) rotateX(15deg) translate3d(-19%, -14%, -0.4em);
-    -moz-transform: scaleY(2) perspective(1em) rotateX(15deg) translate3d(-19%, -14%, -0.4em);
-    -o-transform: scaleY(2) perspective(1em) rotateX(15deg) translate3d(-19%, -14%, -0.4em);
-    -ms-transform: scaleY(2) perspective(1em) rotateX(15deg) translate3d(-19%, -14%, -0.4em);
+    transform: scaleY(2) perspective(1em) rotateX(15deg) translate3d(0%, -14%, -0.4em);
+    -webkit-transform: scaleY(2) perspective(1em) rotateX(15deg) translate3d(0%, -14%, -0.4em);
+    -moz-transform: scaleY(2) perspective(1em) rotateX(15deg) translate3d(0%, -14%, -0.4em);
+    -o-transform: scaleY(2) perspective(1em) rotateX(15deg) translate3d(0%, -14%, -0.4em);
+    -ms-transform: scaleY(2) perspective(1em) rotateX(15deg) translate3d(0%, -14%, -0.4em);
 }
 
 .wordart.tilt .text {
