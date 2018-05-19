@@ -1,5 +1,0 @@
----
-layout: post
----
-
-* [TomDoc](http://tom.preston-werner.com/2010/05/11/tomdoc-reasonable-ruby-documentation.html) - A new Ruby documentation style, optimized for plain text readability. Also aspires to automatically generate diffs between versions of API docs.
