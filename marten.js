@@ -21,7 +21,7 @@ Array.from(document.getElementsByTagName('a')).forEach((element) => {
 });
 
 // Can't get popstate to work. So hacky hacky hack
-if (window.location.href != window.top.location.href) {
+if (!window.isMenu && window.location.href != window.top.location.href) {
     window.top.history.pushState(null, 'foo', window.location.href);
 }
 
