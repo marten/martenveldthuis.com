@@ -2,3 +2,6 @@
 * Add webring
 * Fix hit counter
 * Guestbook?
+* Some kind of custom mouse pointer?
+* Java applets?
+* cgi-bin?
