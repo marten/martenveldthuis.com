@@ -1,0 +1,4 @@
+* Fudge & Brownie are missing (replace stock cat background)
+* Add webring
+* Fix hit counter
+* Guestbook?
